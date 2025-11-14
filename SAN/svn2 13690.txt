@@ -1,0 +1,7 @@
+svn list svn://127.0.0.1:13690/repos
+
+svn co svn://127.0.0.1:13690/repos
+
+cd repos
+
+svn update
