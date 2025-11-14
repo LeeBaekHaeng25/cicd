@@ -27,3 +27,19 @@ systemctl disable firewalld
 
 systemctl status firewalld
 ```
+
+시스템 부팅 시 svn 자동 실행
+
+```
+crontab -l
+```
+
+```
+crontab -e
+```
+
+```
+@reboot /SAN/svn/svn_start.sh
+
+@reboot /SAN/svn2/svn_start.sh
+```
