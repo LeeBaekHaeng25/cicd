@@ -12,9 +12,9 @@
 - SVN 설치 가이드(리눅스용)
   - svn-installation-guide.pdf
 
-[svn-offline-install.sh](svn-offline-install.sh)
-
 [svn-online-install.sh](svn-online-install.sh)
+
+[svn-offline-install.sh](svn-offline-install.sh)
 
 systemctl에서 firewalld 비활성화
 
